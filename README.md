@@ -1,8 +1,27 @@
 👋 Hi, I’m Alessandro  
-💻 I’m a fullstack developer, currently working on the **Links Hub project**  
+💻 Fullstack Developer | Creator of **[Links Hub](https://www.links-hub.org/)**  
 
-👀 I’m interested in web development, backend systems, and creating secure and efficient web platforms  
-🌱 I’m constantly learning and improving my skills in **JavaScript, Node.js, and other technologies**  
+🌐 I’m passionate about building **secure, fast, and reliable web platforms**  
+👀 Currently focused on **web development, backend systems, and fullstack projects**  
+🌱 Always learning and improving my skills in **JavaScript, Node.js, C#, and modern web technologies**  
 
-🤝 If you want to collaborate or share ideas about development, feel free to reach out!  
-📫 You can contact me via email: ilrussodigrana@gmail.com
+---
+
+## 🔧 Skills & Interests
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express, APIs, Databases  
+- **Other:** C#, security best practices, cloud/CDN setups  
+
+---
+
+## 📌 Projects
+- **[Links Hub](https://www.links-hub.org/)** – A secure and anonymous platform for sharing links and messages  
+- **Personal experiments & plugins** – Various small projects for learning and improving skills  
+
+---
+
+## 🤝 Let’s Connect
+- Feel free to reach out if you want to collaborate or share ideas!  
+- 📫 Email: ilrussodigrana@gmail.com  
+
+---
