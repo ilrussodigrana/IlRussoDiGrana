@@ -1,11 +1,8 @@
- 👋 Hi, I’m @IlRussoDiGrana
- 👀 I’m interested in helping people with some HTML, CSS, JavaScript plugin for Minecraft
- 🌱 I’m currently learning to code in JavaScript, C#
- 🤝 If you want to help each other in something, contact me!
- 📫 You can contact me via email: ilrussodigrana@gmail.com
+👋 Hi, I’m Alessandro  
+💻 I’m a fullstack developer, currently working on the **Links Hub project**  
 
+👀 I’m interested in web development, backend systems, and creating secure and efficient web platforms  
+🌱 I’m constantly learning and improving my skills in **JavaScript, Node.js, and other technologies**  
 
-<!---
-IlRussoDiGrana/IlRussoDiGrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 If you want to collaborate or share ideas about development, feel free to reach out!  
+📫 You can contact me via email: ilrussodigrana@gmail.com
