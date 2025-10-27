@@ -22,6 +22,6 @@
 
 ## 🤝 Let’s Connect
 - Feel free to reach out if you want to collaborate or share ideas!  
-- 📫 Email: ilrussodigrana@gmail.com  
+- 📫 Email: ghilardialessandro7@gmail.com  
 
 ---
